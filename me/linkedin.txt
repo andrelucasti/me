@@ -1,0 +1,139 @@
+   
+Contato
++351 933782578 (Mobile)
+andrelucastic@gmail.com
+www.linkedin.com/in/andre-lucastic
+(LinkedIn)
+programmingonmars.io/ (Blog)
+Principais competências
+Anthropic Claude
+Cloud Computing
+Oracle
+Certifications
+Docker: Criando containers sem dor
+de cabeça
+Java and Domain Driven Design:
+introducing the concepts
+Vue3: exploring the framework
+Grokking System Design
+Fundamentals
+Uncomplicating Kubernetes
+André Lucas
+Software Engineer at Innotech
+Portugal
+Resumo
+Hello, I'm a skilled Software Engineer with over 8 years of
+experience developing systems in large, highly critical environments.
+I have achieved remarkable milestones throughout my career and
+consistently delivered high-quality solutions. I take pride in navigating
+complex technical challenges and delivering innovative software
+solutions that exceed expectations.
+Additionally, I have established a strong online presence through
+a website where I share my insights on software development.
+I provide valuable perspectives on best practices for system
+development and document my experiences in a personal learning
+journal. This platform allows me to contribute to the software
+development community and continually grow as a professional.
+As a Software Engineer, I am passionate about leveraging my skills
+and knowledge to drive impactful technological advancements.
+I thrive in dynamic and collaborative environments, where I can
+contribute my expertise to create cutting-edge solutions.
+If you're seeking a dedicated and experienced Software Engineer
+who can excel in critical environments and bring valuable insights
+to the table, I would be thrilled to connect and explore potential
+opportunities together. Feel free to reach out to me, and let's discuss
+how we can drive innovation together.
+Experiência
+InnoTech.pt
+Software Engineer
+outubro de 2024 - Present (1 ano)
+Programando em Marte
+  Page 1 of 4   
+Founder
+maio de 2023 - Present (2 anos 5 meses)
+My mission is to make programming accessible to everyone, helping readers,
+achieve their programming goals and discover the transformative potential of
+coding.
+https://programmingonmars.io/
+Power IT Consulting
+Software Engineer
+abril de 2022 - outubro de 2024 (2 anos 7 meses)
+Lisbon, Portugal
+In some clients, my role is not only to develop code but also to contribute and
+motivate my team with
+new technologies creating a culture to apply good practices of engineering,
+like, clean code, design
+patterns, and separating responsibilities of domains from the applications.
+There was a lot of difficulty and problems in delivering applications in a
+production environment
+because they were using SVN, so I showed other options like GitLab, then we
+chose to use GitLab,
+and I was responsible for implementing it. This makes it more comfortable to
+deliver new features in the
+production environment. Also, it became better to hire new developers.
+Also, I am responsible for automatizing developers' tools to facilitate their work
+with it easier to create
+new features and integrate web services.
+Also, I was responsible for creating a solution where there was a problem with
+a client sending emails
+to its customers and some customers did receive emails after candidature
+applications. So after I had
+created the solution 99% of the emails are sent now.
+iFood
+Software Engineer
+abril de 2019 - abril de 2022 (3 anos 1 mês)
+Recife, Pernambuco, Brazil
+Planning, architecting and developing microservices having got a strong
+culture with TDD and a multifunctional team, we create a solution that
+processes several of data a day
+  Page 2 of 4   
+I worked on different products focusing on the logistics. Since migrations from
+monolithic to microservices architecture allowed the company to receive 1
+million routes a day, until creating possibilities to create a lot of promotion for
+these routes, to supply balance between the orders and drivers saving money
+for the company and creating incentives for drivers.
+I was responsible for being a host in some meetings, like daily, technical
+discussions, system design meetings, planning, and refinements.
+Also, I've participated in many processes of onboarding to welcome new
+colleagues with technical presentations about some context of systems and
+main flows.
+Finally me too I used to do mentoring and 1on1 sessions, which I love.
+FITec
+Software Development Specialist
+janeiro de 2018 - abril de 2019 (1 ano 4 meses)
+Recife e Região, Brasil
+I was in charge of the infrastructure and coding part, I use microservice
+architecture, for example, I've built a service that gets a high amount of data
+coming from several devices and organizes them in a database to create
+reports in order to analyze them and get insights.
+Used technologies:  
+SpringCloud, Mapd(OmniSci), Apache Weka(ML), ElasticSearch, Google
+Platform, Google Pub/Sub, Docker Swarm, VueJS.
+Consenso Tecnologia
+Software Engineer
+agosto de 2017 - janeiro de 2018 (6 meses)
+Recife e Região, Brasil
+I had the task of developing new features, correcting and testing existing
+features.
+I developed technologies so that companies could manage basic sanitation
+more efficiently. Ensuring the monitoring of losses and improving the process.
+In this company I've worked with struts 1, Spring MVC, banco de dados Oracle
+e PostgreSQL, Git Version, Ant Build.
+Pitang
+  Page 3 of 4   
+Software Developer
+agosto de 2015 - agosto de 2017 (2 anos 1 mês)
+Some of my activities were to analyze systems, to develop new features,  to
+fix and test existing functionalities for the EFISCO - Pernambuco's Treasury
+Department System relating to taxes.
+Unisys Brasil
+Programmer
+maio de 2014 - julho de 2015 (1 ano 3 meses)
+Recife e Região, Brasil
+Formação acadêmica
+Full Cycle
+Master of Business Administration - MBA, Software Architecture · (novembro
+de 2023 - julho de 2025)
+Faculdade Maurício de Nassau
+Bachelor of Information System, Information Technology · (2012 - 2016)
+  Page 4 of 4

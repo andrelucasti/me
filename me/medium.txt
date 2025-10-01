@@ -1,0 +1,136 @@
+326 followers
+Home Lists About
+How to implement the LFU (cache) algorithm
+In the last story, I spoke about How to implement the LRU (cache) algorithm
+Apr 4, 2024
+How to implement the LRU (cache) algorithm
+When we are implementing any caching technique in our architecture, it is
+essential to know what is the best eviction policy that makes…
+Mar 16, 2024
+The Practical SOLID
+Sometimes when we’re starting in the programming world we believe that
+programming is only to code some ifs, and for, or when we need to…
+Jan 13, 2024
+9/30/25, 10:53 PM Andre Lucas – Medium
+https://andrelucas.io 1/618 Characteristics which Our Software Needs to Have
+When planning to create software, sometimes we like developers want to write
+code, and put the best framework that we know, or what the…
+Dec 26, 2023
+[ Reflections ] — Difference Between PUT and PATCH
+The objective of this story format is to be fast and tell you fundamentals where
+we sometimes don’t question ourselves in our daily lives.
+Dec 11, 2023
+Microservices — Controlling transactions with SAGA pattern 
+— Choreography
+Let’s imagine a scenario where we have a logistic application.
+Nov 5, 2023
+Understanding Caching in Software Architecture
+Caching — The cache is a storage layer between the application and the source
+of the data, like a database, for example, a file system, or…
+Jul 17, 2023
+API Gateway: Enhancing Microservices Architecture
+In a microservices architecture, an API Gateway plays as a central component
+that enhances the communication between clients and servers…
+Jul 10, 2023
+Exploring DIP’s Relationship with Onion Architecture,
+Hexagonal Architecture, and Ports & Adapters
+In the realm of software development, principles that guide design and
+architecture are invaluable. I’ll show you how it is important this…
+9/30/25, 10:53 PM Andre Lucas – Medium
+https://andrelucas.io 2/6Jun 14, 2023
+Published in
+What I Needed to Know Before Adopting Microservices
+Architecture
+Exploring the pros and cons and other details before adopting this architecture
+for creating your software.
+Apr 25, 2023
+Database Migrations for beginners — Springboot + Flyway |
+What is and How to implements
+Such as we versioning the code source, is a good practice to versioning
+database scripts.
+Mar 6, 2023
+Microservices — Monitoring in a production environment
+receiving correlation ids — Spring Boot 3 +…
+Hey folks, this is the second part of the story, Microservices — Monitoring in a
+production environment using correlation ids — Cap 01
+Feb 6, 2023
+Microservices — Monitoring in a production environment — 
+Tracing requests with correlation Id —…
+Hey folks this story is hands-on that belongs to my story Microservices — How
+monitoring in a production environment — Log Aggregators
+Jan 30, 2023
+Published in
+Bits and Pieces
+Bits and Pieces
+9/30/25, 10:53 PM Andre Lucas – Medium
+https://andrelucas.io 3/6Microservices — How monitoring in a production environment 
+— Log Aggregators
+In this first story in this monitoring series, I’ll show how is important to adopt log
+aggregation tools in a production environment.
+Jan 16, 2023
+How to use the CDK for AWS with JAVA — AWS CDK
+AWS Cloud Development Kit (CDK) accelerates cloud development using
+common programming languages to model your applications.
+Dec 26, 2022
+Microservices Asynchronous Communication sending and
+receiving messages — Spring Boot + Amazon SNS…
+So in this story, I’ll show you how to publish and consume messages using the
+Amazon SNS and Amazon SQS with Springboot
+Dec 12, 2022
+From Monoliths to Microservices - Springboot Modular
+Monolith Application with database decoupled
+In this story, I’ll show you how you can implement a good monolith application
+that can become a microservices
+Nov 28, 2022
+How to monitor Java applications — Springboot Actuator +
+Prometheus + Grafana
+In this tutorial, I’ll show you how simple is to send spring boot metrics to
+Prometheus.
+Nov 14, 2022
+9/30/25, 10:53 PM Andre Lucas – Medium
+https://andrelucas.io 4/6Published in
+CQRS — Command Query Responsibility Segregation
+CQRS It’s a patterner proposed by Greg Young, that you can use a different
+model to update information than the model you use to read…
+Oct 31, 2022
+Published in
+The Practical Onion Architecture — the onion that doesn’t
+make you cry
+Hi, folks in my new job I’m the owner of implementing a new architecture, so, I
+was presenting a new architecture, separating the…
+Sep 17, 2022
+TDD — The practical of Test Driven Development
+In this story, I’ll show you how Tests Driven Development works and how I use
+this approach in my day by day.
+Aug 22, 2022
+TDD — The importance of the tests in software development
+A lot of programmers ignore the importance of testing your applications,
+sometimes, the tests are executed in the local host.
+Aug 12, 2022
+Published in
+Continuous Integration — CI & Continuous Delivery —CD |
+How to build a high-quality pipeline
+It ´ s worth investing a little time to understand continuous integration (CI) and
+continuous delivery (CD), mainly in the development…
+DevOps.dev
+FAUN.dev  —  Developer Community 🐾
+FAUN.dev  —  Developer Community 🐾
+9/30/25, 10:53 PM Andre Lucas – Medium
+https://andrelucas.io 5/6Jul 23, 2022
+Microservice Communication — AWS SQS | Sending Messages
+This story is a second part about Microservice Communication where I spoke
+about communication styles and where to apply them.
+Jul 6, 2022
+Published in
+Microservices Communication — Queues Topics and Streams
+In this article I will to speak about types of messages brokers that are famous
+used in microservices communication.
+Jun 19, 2022
+Difference between Architecture and Design
+There can be a great misunderstanding when it comes to design and
+architecture. As for me, when in the beginning of my career, I didn’t…
+Jun 8, 2022
+CodeX
+Open in app
+9/30/25, 10:53 PM Andre Lucas – Medium
+https://andrelucas.io 6/6
